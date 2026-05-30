@@ -2,6 +2,10 @@
 
 A comprehensive web-based job portal application built with Java, HTML, CSS, JavaScript, and SCSS. This project provides a platform for job seekers to find employment opportunities and employers to post job listings.
 
+## 📖 About
+
+Jobportal is a full-stack job recruitment platform that connects job seekers with employers. It provides a seamless experience for users to search, apply, and manage job opportunities, while enabling employers to post listings and review applications efficiently.
+
 ## 📋 Project Overview
 
 Job Portal is a full-stack application designed to connect job seekers with employers. The platform facilitates job searches, applications, and employer recruitment management in a user-friendly interface.
